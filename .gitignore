@@ -1,0 +1,5 @@
+.env
+*.pyc
+__pycache__/
+indiamart_bot.log
+.DS_Store
